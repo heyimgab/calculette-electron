@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Simple Calculator App made with Electron.",
+  "main": "./app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Gab",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.0.1"
+  }
+}
